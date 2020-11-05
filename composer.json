@@ -1,5 +1,5 @@
 {
-    "name": "francescomalatesta/laravel-amplitude",
+    "name": "enmaboya/laravel-amplitude",
     "description": "A Laravel package to work with Amplitude.",
     "keywords": [
         "laravel",
@@ -12,8 +12,8 @@
     "type": "library",
     "authors": [
         {
-            "name": "Francesco Malatesta",
-            "email": "hellofrancesco@gmail.com",
+            "name": "Vitaly Dubov",
+            "email": "vita-dubov@yandex.ru",
             "role": "Developer"
         }
     ],
